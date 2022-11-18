@@ -1,0 +1,42 @@
+.paragraphe {
+    color :darkgreen;
+    font-size: 30px;
+}
+.lien {
+    color :blue;
+    font-size: 40px;
+}
+
+body {
+    background-image: url(R.jpg)
+  }
+
+.gras {
+    font-weight: bold;
+  }
+
+
+  .italique {
+    font-style: italic;
+  }
+
+
+  .souligne {
+    text-decoration: underline;
+  }
+
+  .titre {
+        color :blueviolet;
+        font-size: 50px
+
+  }
+
+  li {
+    color :deeppink;
+    font-size: 40px
+
+  }
+
+  .worning {border: 10px ridge rgb(0, 0, 0);
+    background-color: #ff0;
+      }
